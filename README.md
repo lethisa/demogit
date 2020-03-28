@@ -1,4 +1,6 @@
 # DEMO GIT
 ## GIT and GITHUB
 
-## BAD BRANCH
+## MASTER BRANCH ADD CONTENT
+## updates on stage
+## more updates
