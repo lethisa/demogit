@@ -3,4 +3,4 @@
 
 - git basic
 - github
-- update-readme
+- update-readme from local
